@@ -20,22 +20,6 @@ public class User {
         this.birthday = birthday;
     }
 
-    public String getSurname() {
-        return surname;
-    }
-
-    public String getFirstName() {
-        return firstName;
-    }
-
-    public String getPatronymicName() {
-        return patronymicName;
-    }
-
-    public LocalDate getBirthday() {
-        return birthday;
-    }
-
     @Override
     public String toString() {
         return "User{" +

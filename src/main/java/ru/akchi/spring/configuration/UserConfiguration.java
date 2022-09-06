@@ -16,7 +16,7 @@ public class UserConfiguration {
                 "Головачёва",
                 "Надежда",
                 "Павловна",
-                LocalDate.of(1995,8,19)
+                LocalDate.of(1995, 8, 19)
         );
     }
 
@@ -26,7 +26,7 @@ public class UserConfiguration {
                 "Чичов",
                 "Александр",
                 "Константинович",
-                LocalDate.of(1995,11,16)
+                LocalDate.of(1995, 11, 16)
         );
     }
 }
